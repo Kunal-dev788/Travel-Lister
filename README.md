@@ -34,14 +34,17 @@ The app also uses **localStorage** to save your data, so even after refreshing, 
 ![App Screenshot](/public/screenshots/demo1.png)  
 ![App Screenshot](/public/screenshots/demo2.png)  
 
-🎥 Demo Video: [Project Demo](/public/screenshots/projectDemo.mp4)
+🎥 Demo Video: [Project Demo]
+https://github.com/user-attachments/assets/d5a304b4-3399-400f-b53a-21d58ecc7029
+
+
 
 ---
 
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
-git clone https://github.com/your-username/packing-list.git
+git clone git@github.com:Kunal-dev788/Travel-Lister.git
 cd packing-list
 
 ### 2. Install deps
