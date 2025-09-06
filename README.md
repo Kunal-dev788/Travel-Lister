@@ -33,16 +33,20 @@ The app also uses **localStorage** to save your data, so even after refreshing, 
 ![App Screenshot](/public/screenshots/demo1.png)  
 ![App Screenshot](/public/screenshots/demo2.png)  
 
-# 🎥 Demo Video: 
+## 🎥 Demo Video: 
 https://github.com/user-attachments/assets/d5a304b4-3399-400f-b53a-21d58ecc7029
+
+---
+
+## Project Live on:
+https://travelways.netlify.app/
 
 ---
 
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
-git clone git@github.com:Kunal-dev788/Travel-Lister.git
-cd packing-list
+git clone [git@github.com:Kunal-dev788/Travel-Lister.git](https://github.com/Kunal-dev788/Travel-Lister)
 
 ### 2. Install deps
 npm install
